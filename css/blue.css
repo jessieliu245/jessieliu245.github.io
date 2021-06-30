@@ -1,0 +1,135 @@
+
+a,
+a:visited,
+h3.article-title a:hover {
+    color: #17649A;
+}
+
+a:hover {
+    color: #249ad6;
+}
+
+
+/* Standard buttons */
+
+.btn-primary,
+.btn-primary.btn-outline {
+    border-color: black;
+    background-color:white ;
+        color: #03396c;
+        font-style: bold
+
+}
+
+/* Hover buttons */
+
+.btn-primary.btn-outline:hover {
+    border-color: black;
+    background-color: #17649A;
+    color: white;
+    font-style: bold
+}
+
+
+
+/*************************************************
+ *  Publications
+ **************************************************/
+
+.pub-icon {
+  color: #03396c;
+  font-size: 0.96em;
+  padding-top: 6px;
+}
+
+.pub-banner {
+  max-width: 100%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.pub .pub-title {
+  margin-bottom: 2px;
+  font-size: 1rem;
+}
+
+.pub .pub-authors {
+  font-style: normal;
+  line-height: 30px; /* Match share bar line height. */
+}
+
+.pub .pub-row-heading {
+  font-weight: bold;
+
+}
+
+.pub-list-item {
+  margin-bottom: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.pub-list-item .titlePaper {
+  font-size: 0.75rem;
+  color: #03396c;
+  
+}
+
+.pub-list-item .pub-abstract {
+  font-size: 0.7rem;
+  text-align: justify;
+  color:black;
+}
+
+.pub-abstract-single {
+  font-size: 0.7rem;
+  text-align: justify;
+  color:black;
+}
+
+.pub-list-item .pub-authors {
+  line-height: normal;
+  font-style: normal;
+  font-size: 0.7rem;
+  color: black;
+}
+
+.pub-list-item .pub-publication {
+  color: black;
+  font-style: italic;
+  font-size: 0.7rem;
+}
+
+.pub-list-item .pub-links {
+  padding-top: 0px;
+  
+}
+
+.container-publications {
+  max-width: 960px;
+  margin: 0 auto 0 auto;
+  display: block;
+  position: relative;
+  overflow: hidden;
+}
+
+
+.section-header{
+  max-width: 960px;
+  padding: 0rem 0px 0 0px;
+  margin: 0 auto 0 auto;
+  display: block;
+  position: relative;
+  overflow: hidden;
+
+}
+
+
+hr {
+width: 60%;
+margin-left: auto;
+margin-right: auto;
+opacity: 0.5;
+}

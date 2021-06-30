@@ -1,0 +1,293 @@
+
+ @media screen and (min-width: 58em) {
+   html {
+     font-size: 16px;
+   }
+ }
+
+ html {
+font-family: 'Lucida Bright', sans-serif;
+  font-size: 20px;
+  color: rgba(0,0,0,1);
+  line-height: 1.6;
+}
+
+/* GRAY TEXT */
+.comment{
+  font-family: 'Lucida Bright', sans-serif;
+  color: #AAAAAA;
+}
+
+body{
+  background-color:#ffffff;
+  /*background-color: #ffffff;*/
+}
+
+#THECONTENT{
+  background-color: #ffffff;
+}
+/*
+WHAT THIS IS:
+In body{} above I set the background color to dark gray.
+This is so that the background color matches the footer.
+(Otherwise if you over-scroll then you end up getting white)
+#THECONTENT is a div tag that opens at the bottom of navbar.html
+and closes at the top of footer_container.html
+That makes the main content white.
+*/
+
+
+.btn{
+  font-family: 'Lucida Bright', sans-serif;
+}
+
+/* FOR HONORS LIST IN CV */
+.ul-honors{
+  font-family: 'Lucida Bright', sans-serif;
+  color: #AAAAAA;
+  list-style: none;
+}
+
+
+
+#profile .portrait {
+  background-image: url('../img/portrait.jpg');
+  width: 250px;
+  height: 250px;
+  margin: 0 ;
+  border-radius: 50%;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+}
+
+
+
+
+#flip-moved-social-icons ul.social-icon {
+  display: inline-flex;
+  flex-direction: row;
+  margin-left: 0px;
+  list-style: none;
+  padding: 0px;
+  margin-top: 20px;
+}
+
+#flip-moved-social-icons .social-icon li {
+  margin-left: 0px;
+}
+
+#flip-moved-social-icons .social-icon li:last-of-type {
+  margin-right: 1px;
+  margin-left: 1px;
+}
+
+#flip-moved-social-icons .social-icon li:hover {
+  transform: scale(1.2)
+}
+
+.big-icon {
+  font-size: 1.6rem;
+}
+/*#flip-moved-social-icons a{
+  color: #AAAAAA;
+}
+
+#flip-moved-social-icons a:hover{
+  color: #249ad6;
+}
+*/
+
+
+/* Watermark
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+
+/* to make "white bg" transparent */
+.home-section {
+  background-color: transparent;
+  /*z-index: 1;*/ /* Bootstraps default z-indices are around 1000 */
+}
+
+#watermark{
+	background-size: 700px 350px;
+	background-repeat:no-repeat;
+	background-position:left top;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	top: 30px;
+	left: 0px;
+  pointer-events: none;
+	/*z-index: 0;*/
+  /* -1: doesn't show on home page; 0+: no links on other pages */
+  /* less than zero */
+  /* causes problems with other pages */
+  /* solution: https://stackoverflow.com/questions/3538489/html-css-make-a-div-invisible-to-clicks */
+	height: 100%;
+	width: 100%;
+	text-align: right;
+	opacity: 0.1;
+}
+
+.sidebarpic{
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+
+
+
+/* FOOTER */
+
+
+footer {
+  font-family: 'Raleway', sans-serif;
+  background-color:#191919;
+  margin: 4rem 0 0;
+  padding: 0.5rem 0;
+  width: 100%;
+}
+
+footer p {
+  font-size: 0.6rem;
+  text-align: center;
+}
+
+.site-footer,
+footer a#back_to_top i {
+  color: #899596;
+}
+
+#botbar1{
+	background-color:#555555;
+	margin: 0;
+	padding: 0;
+  position:relative;
+	top: 75px;
+	left: 0px;
+	z-index: 9;
+	height: 7px;
+	width: 100%;
+}
+/* Why is this exactly 927? I do not know! Trial-and-error. */
+@media screen and (max-width: 927px) {
+  #botbar1{
+    top: 15px;
+  }
+}
+
+/*************************************************
+ *  Navigation Bar
+ **************************************************/
+/* Navigation bar size */
+.navbar {
+  min-height: 40px !important;
+  height: 60px !important;
+}
+
+.navbar-default {
+  background: #fff;
+  box-shadow: 0 0.125rem 0.25rem 0 rgba(0,0,0,.21)
+}
+/* navigation bar active color*/
+.navbar-default .navbar-nav>.active>a:focus,
+.navbar-default .navbar-nav>.active>a:hover {
+  color: #0095fb;
+  font-weight: 700;
+  background-color: transparent !important; /* Override Bootstrap. */
+}
+
+.navbar-default .navbar-nav>.active>a{
+  color: white;
+  font-weight: 700;
+  background-color: transparent !important; /* Override Bootstrap. */
+
+}
+
+/* Navigation bar text */
+.navbar-default {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+  line-height: 2.25;
+  text-rendering: optimizeLegibility;
+
+}
+.navbar-default .navbar-brand {
+  text-transform: capitalize;
+  font-weight: bold;
+  font-size: 1.1em;
+  color: white;
+  padding-left:60px;
+}
+
+nav#navbar-main li {
+  font-size: 16px;
+  background-color:rgba(10, 0, 0, .7);
+
+}
+
+.navbar-brand,
+.navbar-nav li a {
+  height: inherit;
+  line-height: 40px;
+  padding-top: 10px;
+  padding-bottom: 0px;
+
+}
+/* NAVBAR coloring */
+
+.navbar-default{
+    background-color:rgba(10, 0, 0, 1.0);
+
+}
+
+
+.navbar-default .navbar-nav li a{
+    color: white;
+}
+
+.navbar-default .navbar-nav li a:hover{
+  color:#0095eb;
+  background-color: transparent !important; /* Override Bootstrap. */
+
+}
+.btn-primary,
+.btn-primary.btn-outline {
+    color: white;  
+}
+
+/*************************************************
+ *  Contact
+ **************************************************/
+
+#contact.home-section .fa-ul {
+  margin-left: 3.14285714rem; /* Must be > `fa-2x` icon size. */
+}
+
+#contact.home-section .fa-li {
+  position: absolute;
+  left: -3.14285714rem; /* Negative of `#contact.home-section .fa-ul` margin. */
+  width: 2rem; /* Match `fa-2x` icon size. */
+  top: 3.16285714em; /* Default FA value. */
+  text-align: center;
+}
+
+#contact.home-section li {
+  padding-top: .4rem; /* Align text with bottom of `fa-2x` icon. */
+  margin-bottom: 0.3rem;
+}
+
+#contact.home-section li:last-of-type {
+  margin-bottom: 0;
+}
+
+.aboutme{
+        font-size:      .9rem;
+        }
+
+.contact{
+        font-size:      .8rem;
+        }        
