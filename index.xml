@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>  on  </title>
@@ -7,69 +6,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020 Zhenqi Liu</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://jessieliu245.github.io/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Reactive Marketing: A Bayesian Persuasion Perspective</title>
-      <link>https://jessieliu245.github.io/publication/dl_reactive/</link>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <title>Teaching</title>
+      <link>https://jessieliu245.github.io/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://jessieliu245.github.io/publication/dl_reactive/</guid>
-      <description></description>
+      <guid>https://jessieliu245.github.io/teaching/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Instructor, Introduction to Microeconomics, Spring 2016 and 2018.&lt;/li&gt;
+&lt;li&gt;T.A., Introduction to Microeconomics, Fall 2013 and 2014.&lt;/li&gt;
+&lt;li&gt;T.A., Econometrics II (PhD), Spring 2014 and 2015.&lt;/li&gt;
+&lt;li&gt;T.A., Law and Economics, Fall 2017.&lt;/li&gt;
+&lt;li&gt;T.A., Foundations of Market Economies, Fall 2017.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--![Example](img/background/chalkboard_verythin.jpg)--&gt;
+</description>
     </item>
     
     <item>
-      <title>How Moderation Shapes Engagement Amid Online Toxicity</title>
-      <link>https://jessieliu245.github.io/publication/bl_toxicity/</link>
-      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <title>Research</title>
+      <link>https://jessieliu245.github.io/publication/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jessieliu245.github.io/publication/bl_toxicity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>People Are More Likely to Believe and Share Fake News on Smartphones (vs. PCs)</title>
-      <link>https://jessieliu245.github.io/publication/xly_misinfo/</link>
-      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://jessieliu245.github.io/publication/xly_misinfo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>How Allowing a Little Bit of Dissent Helps Control Social Media: Impact of Market Structure on Censorship Compliance</title>
-      <link>https://jessieliu245.github.io/publication/jmp/</link>
-      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://jessieliu245.github.io/publication/jmp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Asymmetric Impact of Matching Technology on Influencer Marketing: Implications for Platform Revenue</title>
-      <link>https://jessieliu245.github.io/publication/ll_influencer/</link>
-      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://jessieliu245.github.io/publication/ll_influencer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Less Is More: A Theory of Minimalist Luxury</title>
-      <link>https://jessieliu245.github.io/publication/ylz_quiet/</link>
-      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://jessieliu245.github.io/publication/ylz_quiet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Theory of Maximalist Luxury</title>
-      <link>https://jessieliu245.github.io/publication/ylz_loud/</link>
-      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://jessieliu245.github.io/publication/ylz_loud/</guid>
+      <guid>https://jessieliu245.github.io/publication/</guid>
       <description></description>
     </item>
     

@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    
   
     
     
@@ -14,8 +16,8 @@
     
     <url>
     
-      <loc>https://jessieliu245.github.io/publication/dl_reactive/</loc>
-      <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+      <loc>https://jessieliu245.github.io/</loc>
+      <lastmod>2025-06-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -24,7 +26,16 @@
     <url>
     
       <loc>https://jessieliu245.github.io/publication/bl_toxicity/</loc>
-      <lastmod>2025-03-31T00:00:00+00:00</lastmod>
+      <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://jessieliu245.github.io/publication/dl_reactive/</loc>
+      <lastmod>2025-04-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -86,18 +97,7 @@
     
     <url>
     
-      <loc>https://jessieliu245.github.io/</loc>
-      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://jessieliu245.github.io/categories/</loc>
-      <priority>0</priority>
     </url>
     
   
@@ -106,7 +106,6 @@
     <url>
     
       <loc>https://jessieliu245.github.io/tags/</loc>
-      <priority>0</priority>
     </url>
     
   
