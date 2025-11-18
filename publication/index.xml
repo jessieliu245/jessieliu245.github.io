@@ -1,74 +1,74 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research on  </title>
-    <link>https://jessieliu245.github.io/publication/</link>
+    <link>http://localhost:1313/publication/</link>
     <description>Recent content in Research on  </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020 Zhenqi Liu</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://jessieliu245.github.io/publication/" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/publication/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Spiral of Silence: Polarizing Creation through Moderating Toxicity</title>
-      <link>https://jessieliu245.github.io/publication/bl_toxicity/</link>
+      <title>Spiral of Silence: How Neutral Moderation Polarizes Content Creation</title>
+      <link>http://localhost:1313/publication/bl_toxicity/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://jessieliu245.github.io/publication/bl_toxicity/</guid>
+      <guid>http://localhost:1313/publication/bl_toxicity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reactive Marketing and the Co-production of (In)Authenticity</title>
-      <link>https://jessieliu245.github.io/publication/dl_reactive/</link>
+      <link>http://localhost:1313/publication/dl_reactive/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://jessieliu245.github.io/publication/dl_reactive/</guid>
+      <guid>http://localhost:1313/publication/dl_reactive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>People Are More Likely to Believe and Share Fake News on Smartphones (vs. PCs)</title>
-      <link>https://jessieliu245.github.io/publication/xly_misinfo/</link>
+      <link>http://localhost:1313/publication/xly_misinfo/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://jessieliu245.github.io/publication/xly_misinfo/</guid>
+      <guid>http://localhost:1313/publication/xly_misinfo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How Allowing a Little Bit of Dissent Helps Control Social Media: Impact of Market Structure on Censorship Compliance</title>
-      <link>https://jessieliu245.github.io/publication/jmp/</link>
+      <link>http://localhost:1313/publication/jmp/</link>
       <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jessieliu245.github.io/publication/jmp/</guid>
+      <guid>http://localhost:1313/publication/jmp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Asymmetric Impact of Matching Technology on Influencer Marketing: Implications for Platform Revenue</title>
-      <link>https://jessieliu245.github.io/publication/ll_influencer/</link>
+      <link>http://localhost:1313/publication/ll_influencer/</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://jessieliu245.github.io/publication/ll_influencer/</guid>
+      <guid>http://localhost:1313/publication/ll_influencer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Less Is More: A Theory of Minimalist Luxury</title>
-      <link>https://jessieliu245.github.io/publication/ylz_quiet/</link>
+      <link>http://localhost:1313/publication/ylz_quiet/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jessieliu245.github.io/publication/ylz_quiet/</guid>
+      <guid>http://localhost:1313/publication/ylz_quiet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Theory of Maximalist Luxury</title>
-      <link>https://jessieliu245.github.io/publication/ylz_loud/</link>
+      <link>http://localhost:1313/publication/ylz_loud/</link>
       <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://jessieliu245.github.io/publication/ylz_loud/</guid>
+      <guid>http://localhost:1313/publication/ylz_loud/</guid>
       <description></description>
     </item>
     
